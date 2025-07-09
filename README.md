@@ -1,3 +1,4 @@
+## Hi there 👋
 
 <!--
 <p align="center">
@@ -5,7 +6,6 @@
     src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Estelle-Mchd&textBg=false&animation=fadeIn&descAlign=50&descAlignY=54"
     >  
 </p>
-## Hi there 👋
 
 Here are some ideas to get you started:
 
