@@ -35,7 +35,7 @@ J’apprends vite, je suis curieuse, rigoureuse, et j'ai une réelle envie de po
 
 <h3 align="center">Tools 🛠️<h3/>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,github,excalidraw" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,github" />
 </p>
 
 ## 🌐 Socials:
