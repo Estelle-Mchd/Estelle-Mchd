@@ -1,14 +1,8 @@
-<p align="center" width="100%">
+<p align="center">
   <img src=https://capsule-render.vercel.app/api?type=waving&height=350&color=gradient&text=Bienvenue%20chez-nl-Estelle-Mchd&textBg=false&animation=fadeIn&descAlign=100&descAlignY=100&section=header"
-    >  
+    width="100%">  
 </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on projects personals 
-- 🌱 I’m currently learning JavaScript 
-- 📫 How to reach me: michardestelleem@gmail.com 
-- ⚡ Fun fact: I'm currently learning JavaScript because nobody can tell us be a master in this langage 😉
 
 <h3 >🎯 Développeuse web junior en reconversion
   <br/>
@@ -24,6 +18,10 @@ Here are some ideas to get you started:
 Oui ! Après plusieurs années comme Responsable Administrative, j’ai décidé de changer de voie pour me consacrer au développement web.  <br>
 J’apprends vite, je suis curieuse, rigoureuse, et j'ai une réelle envie de pogresser ! 🔥
  
+- 🔭 I’m currently working on projects personals 
+- 🌱 I’m currently learning JavaScript 
+- ⚡ Fun fact: I'm currently learning JavaScript because nobody can tell us be a master in this langage 😉
+  
 ## 💻 Tech Stack:
 <h3 align="center">Front-end 🖥️ 🖌️<h3/>
 <p align="center">
@@ -65,5 +63,5 @@ J’apprends vite, je suis curieuse, rigoureuse, et j'ai une réelle envie de po
 <p align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Developpeuse-nl-full-stack%20since%20%202025%20💻&textBg=false&animation=fadeIn&descAlign=50&descAlignY=54&section=footer"
-    >  
+   width="100%" >  
 </p>
