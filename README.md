@@ -61,6 +61,6 @@ J’apprends vite, je suis curieuse, rigoureuse, et j'ai une réelle envie de po
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Developpeuse-nl-full-stack%20since%20%202025%20💻&textBg=false&animation=fadeIn&descAlign=50&descAlignY=54&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Fullstack-nl-developer%20since%20%202025%20💻&textBg=false&animation=fadeIn&descAlign=50&descAlignY=54&section=footer"
    width="100%" >  
 </p>
