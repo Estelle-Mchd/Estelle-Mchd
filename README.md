@@ -3,7 +3,7 @@
 <!--
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Estelle-Mchd&textBg=false&animation=fadeIn&descAlign=50&descAlignY=54"
+    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Estelle-Mchd&textBg=false&animation=fadeIn&descAlign=50&descAlignY=54&section=header"
     >  
 </p>
 
