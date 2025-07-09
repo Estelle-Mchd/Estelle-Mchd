@@ -1,9 +1,5 @@
-## Hi there 👋
-
-<!--
-<p align="center">
-  <img 
-    src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Estelle-Mchd&textBg=false&animation=fadeIn&descAlign=50&descAlignY=54&section=header"
+<p align="center" width="100%">
+  <img   src="https://capsulerender.vercel.app/apitype=waving&height=250&color=gradient&text=EstelleMchd&textBg=false&animation=fadeIn&descAlign=100&descAlignY=100&section=header"
     >  
 </p>
 
@@ -13,8 +9,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning JavaScript 
 - 📫 How to reach me: michardestelleem@gmail.com 
 - ⚡ Fun fact: I'm currently learning JavaScript because nobody can tell us be a master in this langage 😉
--->
-
 
 <h3 >🎯 Développeuse web junior en reconversion
   <br/>
@@ -73,4 +67,3 @@ J’apprends vite, je suis curieuse, rigoureuse, et j'ai une réelle envie de po
     src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Developpeuse-nl-full-stack%20since%20%202025%20💻&textBg=false&animation=fadeIn&descAlign=50&descAlignY=54&section=footer"
     >  
 </p>
-
