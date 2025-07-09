@@ -49,16 +49,15 @@ J’apprends vite, je suis curieuse, rigoureuse, et j'ai une réelle envie de po
 <p/>
 
 ## 📊 GitHub Stats:
-<p align="center">
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Estelle-Mchd)"/>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Estelle-Mchd)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Estelle-Mchd&show_icons=true&count_private=true)  
-</p>
 
 <p align="center">
-![GitHub streak stats](https://streak-stats.demolab.com/?user=Estelle-Mchd)
-</p>
+<a href="https://github.com/Estelle-Mchd/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Estelle-Mchd" />
+</a>
+<a href="https://github.com/Estelle-Mchd/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Estelle-Mchd&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 
 <p align="center">
   <img 
